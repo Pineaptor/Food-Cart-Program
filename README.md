@@ -1,1 +1,1 @@
-This is my first public python project I've created as part of my journey to get a job in programming. It's mainly a little demo of while loops paired with if statements. I also tried to add resilience to the program so it can deal with unexpected inputs.
+This is my first public python project I've created as part of my journey to get a job in programming. It's mainly a little demo of while loops paired with if statements. I also tried to add resilience to the program so it can deal with unexpected inputs using else.
